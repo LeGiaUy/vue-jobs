@@ -97,6 +97,20 @@
         "contactEmail": "leuy091104@gmail.com",
         "contactPhone": "0961750846"
       }
+    },
+    {
+      "id": "522b",
+      "title": "Vue Dev",
+      "type": "Part-Time",
+      "location": "awdawda",
+      "description": "asda",
+      "salary": "$125K - $150K",
+      "company": {
+        "name": "Viet Nam",
+        "description": "asdawaeasg",
+        "contactEmail": "leuy091104@gmail.com",
+        "contactPhone": "0961750846"
+      }
     }
   ]
 }
