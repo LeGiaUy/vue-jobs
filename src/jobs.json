@@ -83,34 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "2a8a",
-      "title": "Lê Uy",
-      "type": "Part-Time",
-      "location": "asda s",
-      "description": "asda",
-      "salary": "$50K - $60K",
-      "company": {
-        "name": "Viet Nam",
-        "descripion": "sawew344",
-        "contactEmail": "leuy091104@gmail.com",
-        "contactPhone": "0961750846"
-      }
-    },
-    {
-      "id": "522b",
-      "title": "Vue Dev",
-      "type": "Part-Time",
-      "location": "awdawda",
-      "description": "asda",
-      "salary": "$125K - $150K",
-      "company": {
-        "name": "Viet Nam",
-        "description": "asdawaeasg",
-        "contactEmail": "leuy091104@gmail.com",
-        "contactPhone": "0961750846"
-      }
     }
   ]
 }
