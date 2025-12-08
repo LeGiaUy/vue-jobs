@@ -3,6 +3,7 @@ import PulseLoader from 'vue-spinner/src/PulseLoader.vue'
 import { reactive, onMounted } from 'vue';
 import { useRoute, RouterLink } from 'vue-router';
 import BackButton from '@/components/BackButton.vue'
+import { MapPinIcon } from '@heroicons/vue/24/outline';
 import axios from 'axios';
 
 const route = useRoute();
@@ -40,9 +41,9 @@ onMounted(async () => {
             <div
               class="text-gray-500 mb-4 flex align-middle justify-center md:justify-start"
             >
-              <i
-                class="fa-solid fa-location-dot text-lg text-orange-700 mr-2"
-              ></i>
+              <MapPinIcon
+                class="size-5 text-orange-700 mr-1"
+              ></MapPinIcon>
               <p class="text-orange-700">{{ state.job.location }}</p>
             </div>
           </div>
